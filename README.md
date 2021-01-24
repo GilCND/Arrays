@@ -3,7 +3,7 @@
 ## This project was my seccond assignment during my IT - PROGRAMMING course at NSCC
 ## Objective:
 
-## ___________________________________________________________________________________________________
+## ____________________________________________________________________________
 #### 1-) Write a program that prints on the console the numbers from 1 to N. 
 #### The number N should be read from the standard input. 
 ### __________________________________________________________________________________________________
@@ -29,4 +29,4 @@
 ### __________________________________________________________________________________________________
 #### 9-) Write a method that finds how many times certain number can be found in a given array. Write a program 
 #### to test that the method works correctly.
-## ___________________________________________________________________________________________________
+## ____________________________________________________________________________
